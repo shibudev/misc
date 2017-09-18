@@ -51,6 +51,11 @@ cp -r <folder to be copied> <Where should be copied>
 mv <file/folder to be moved> <Where should be moved>
 ~~~
 
+### to rename file or folder
+~~~
+mv <filename> <newFilename>
+~~~
+
 ### to write something inside file
 ~~~
 echo <the things you want to write> >> <filename>
