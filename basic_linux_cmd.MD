@@ -10,7 +10,7 @@ cd <folderName>
 cd ..
 ~~~
 
-## to select present working directory `.` is used. In following example sublime text open with current folder
+### to select present working directory `.` is used. In following example sublime text open with current folder
 ~~~
 subl .
 ~~~
